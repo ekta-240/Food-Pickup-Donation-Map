@@ -19,7 +19,7 @@ This project is a web-based application that visualizes food pickup and donation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ekta-240/Pickup-Donation-Map.git
+   git clone https://github.com/ekta-240/Food-Pickup-Donation-Map.git
    cd food-pickup-donation-map
    ```
 
